@@ -1,1 +1,0 @@
-Scaffold-DBContext "Server=IUGRAM\SQLEXPRESS22;Initial Catalog=BRANEF;User ID=sa;Password=1234;Trust Server Certificate=True" -OutputDir EntityFramework -StartupProject "BRANEF.Infra" -Provider Microsoft.EntityFrameworkCore.SqlServer
