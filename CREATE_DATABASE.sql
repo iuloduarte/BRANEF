@@ -172,5 +172,16 @@ GO
 ALTER TABLE [dbo].[Cliente] CHECK CONSTRAINT [FK_Cliente_EmpresaPorte]
 GO
 
+-----------------------------------------
+
+USE [BRANEF]
+GO
+
+INSERT INTO [dbo].[EmpresaPorte] ([Descricao])
+     VALUES
+           ('Pequena'),
+		   ('Média'),
+		   ('Grande')
+GO
 
 
