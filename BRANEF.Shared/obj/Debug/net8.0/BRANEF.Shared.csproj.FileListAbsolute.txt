@@ -1,0 +1,11 @@
+D:\Temp\BRANEF\BRANEF.Shared\bin\Debug\net8.0\BRANEF.Shared.deps.json
+D:\Temp\BRANEF\BRANEF.Shared\bin\Debug\net8.0\BRANEF.Shared.dll
+D:\Temp\BRANEF\BRANEF.Shared\bin\Debug\net8.0\BRANEF.Shared.pdb
+D:\Temp\BRANEF\BRANEF.Shared\obj\Debug\net8.0\BRANEF.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\BRANEF\BRANEF.Shared\obj\Debug\net8.0\BRANEF.Shared.AssemblyInfoInputs.cache
+D:\Temp\BRANEF\BRANEF.Shared\obj\Debug\net8.0\BRANEF.Shared.AssemblyInfo.cs
+D:\Temp\BRANEF\BRANEF.Shared\obj\Debug\net8.0\BRANEF.Shared.csproj.CoreCompileInputs.cache
+D:\Temp\BRANEF\BRANEF.Shared\obj\Debug\net8.0\BRANEF.Shared.dll
+D:\Temp\BRANEF\BRANEF.Shared\obj\Debug\net8.0\refint\BRANEF.Shared.dll
+D:\Temp\BRANEF\BRANEF.Shared\obj\Debug\net8.0\BRANEF.Shared.pdb
+D:\Temp\BRANEF\BRANEF.Shared\obj\Debug\net8.0\ref\BRANEF.Shared.dll

@@ -1,0 +1,15 @@
+D:\Temp\BRANEF\BRANEF.Domain\bin\Debug\net8.0\BRANEF.Domain.deps.json
+D:\Temp\BRANEF\BRANEF.Domain\bin\Debug\net8.0\BRANEF.Domain.dll
+D:\Temp\BRANEF\BRANEF.Domain\bin\Debug\net8.0\BRANEF.Domain.pdb
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\BRANEF.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\BRANEF.Domain.AssemblyInfoInputs.cache
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\BRANEF.Domain.AssemblyInfo.cs
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\BRANEF.Domain.csproj.CoreCompileInputs.cache
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\BRANEF.Domain.dll
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\refint\BRANEF.Domain.dll
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\BRANEF.Domain.pdb
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\ref\BRANEF.Domain.dll
+D:\Temp\BRANEF\BRANEF.Domain\bin\Debug\net8.0\BRANEF.Shared.dll
+D:\Temp\BRANEF\BRANEF.Domain\bin\Debug\net8.0\BRANEF.Shared.pdb
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\BRANEF.Domain.csproj.AssemblyReference.cache
+D:\Temp\BRANEF\BRANEF.Domain\obj\Debug\net8.0\BRANEF.D.0F538194.Up2Date
