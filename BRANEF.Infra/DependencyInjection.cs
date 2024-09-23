@@ -8,7 +8,7 @@ namespace BRANEF.Application.DependencyInjection
     {
         public static IServiceCollection AddRepositories(this IServiceCollection services)
         {
-            services.AddTransient<IClienteRepository, ClienteRepository>();
+            services.AddScoped<IClienteRepository, ClienteRepository>();
 
             return services;
         }
